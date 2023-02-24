@@ -5,6 +5,10 @@ body {
   color: #003049;
   font-family: "Source Sans Pro", Tahoma, Geneva, Verdana, sans-serif;
   padding: 40px;
+  background-color: #eae2b7;
+}
+header{
+  text-align: center;
 }
 
 /* Set the font family for any h1, h2, or h3 heading */
@@ -59,5 +63,7 @@ hr {
   border-radius: 50%;
   border-style:solid;
 }
-
+footer{
+  text-align: center;
+}
 
