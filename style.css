@@ -44,6 +44,12 @@ div {
   margin: auto;
   width: 600px;
 }
+a {
+  color: #d62828;
+}
+a:hover{
+  color: #f77f00; 
+}
 
 img {
   width: 100%;
